@@ -1,0 +1,2 @@
+rootProject.name = 'bugcloud-junit-demo'
+includeFlat 'bugcloud-junit-core'
