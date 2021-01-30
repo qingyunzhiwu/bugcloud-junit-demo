@@ -16,7 +16,7 @@ import com.bugcloud.junit.demo.model.User;
 import com.bugcloud.junit.demo.service.IUserService;
 
 @RestController
-@RequestMapping("/user")
+@RequestMapping("/users")
 public class UserController {
 	@Autowired
 	private IUserService userService;

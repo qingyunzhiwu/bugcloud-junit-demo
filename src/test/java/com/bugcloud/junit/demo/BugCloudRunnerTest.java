@@ -9,7 +9,7 @@ import com.bugcloud.junit.core.annotation.PushReport;
 
 @RunWith(BugCloudRunner.class)
 @PushReport(appKey = "6585667c-6f18-4c4f-b809-3be1de3b3ca7", appSecret = "fce8d3b5-6c9b-4a49-a50b-ad519630c898", pusher = "yu",handler="张三")
-public class RuleTest {
+public class BugCloudRunnerTest {
 
 	@Test
 	public void testRuleTrue() {

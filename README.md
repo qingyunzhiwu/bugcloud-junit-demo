@@ -1,37 +1,11 @@
-# bugcloud-junit-demo
+# BugCloud-JUnit-Demo
 
 #### 介绍
-BugCloud JUint 测试用例Demo
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+BugCloud Junit Demo 是 BugCloud Junit Core 库的测试示例工程，用于展示如何快速创建自动化单元测试，如何通过配置参数使测试报告结果自动推送到[ButCloud云平台](http://www.bug-cloud.com)。
+本示例采用SpringBoot架构，代码中实现了一个Controller接口类，用于测试调用。
+#### 连接
+官网: http://www.bug-cloud.com
+library github: https://github.com/qingyunzhiwu/bugcloud-junit-core
+library gitee: https://gitee.com/qingyunzhiwu/bugcloud-junit-core
+demo github: https://github.com/qingyunzhiwu/bugcloud-junit-demo
+demo gitee: https://gitee.com/qingyunzhiwu/bugcloud-junit-demo

@@ -16,9 +16,8 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter'
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+	testImplementation 'com.bug-cloud:bugcloud-junit-core:0.0.2-RELEASE'
 	runtimeOnly 'com.h2database:h2'
-	testImplementation 'org.springframework.boot:spring-boot-starter-test'
-	testImplementation project (path:':bugcloud-junit-core', configuration:'default')
 }
 
 test {
